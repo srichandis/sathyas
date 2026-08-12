@@ -1,0 +1,6 @@
+{
+  "name": "Sathya's Events & Catering",
+  "description": "Authentic catering and event services website with user authentication, quotation manager, menu explorer, and interactive Blade/Laravel code inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

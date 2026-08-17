@@ -5,8 +5,8 @@
             <div class="relative group">
                 <div class="absolute -inset-2 bg-gradient-to-r from-[#d4af37]/30 to-[#800000]/20 rounded-xl blur-md opacity-50 group-hover:opacity-80 transition duration-500"></div>
                 <div class="relative rounded-xl overflow-hidden shadow-xl border-4 border-[#e8ded0]">
-                    <img src="https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=800&q=80"
-                         alt="Brahmin Catering Servers on Banana Leaves"
+                    <img src="{{ asset('images/image1.jpeg') }}"
+                         alt="Sathya's Catering — Authentic Brahmin feast"
                          class="w-full h-[380px] sm:h-[420px] object-cover hover:scale-105 transition-transform duration-700" />
                     <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-6 text-white">
                         <span class="text-xs font-semibold text-[#f5d77f] uppercase tracking-widest block mb-1">Purity & Tradition</span>

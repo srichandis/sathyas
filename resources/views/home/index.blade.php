@@ -6,5 +6,6 @@
     @include('components.hero')
     @include('components.feature-bar')
     @include('components.about')
+    @include('components.gallery')
     @include('components.contact-footer')
 @endsection

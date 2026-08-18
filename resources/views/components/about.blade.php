@@ -8,10 +8,7 @@
                     <img src="{{ asset('images/image1.jpeg') }}"
                          alt="Sathya's Catering — Authentic Brahmin feast"
                          class="w-full h-[380px] sm:h-[420px] object-cover hover:scale-105 transition-transform duration-700" />
-                    <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-6 text-white">
-                        <span class="text-xs font-semibold text-[#f5d77f] uppercase tracking-widest block mb-1">Purity & Tradition</span>
-                        <p class="text-sm font-serif italic text-amber-100">"Serving satvik meals with devotion in traditional banana leaf style"</p>
-                    </div>
+
                 </div>
             </div>
 

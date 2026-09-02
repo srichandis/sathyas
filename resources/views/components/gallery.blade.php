@@ -18,11 +18,11 @@
         <!-- Gallery Grid -->
         @php
             $galleryImages = [
-                ['id' => 1, 'title' => 'Traditional Banana Leaf Thali', 'url' => 'https://images.unsplash.com/photo-1630383249896-424e482df921?auto=format&fit=crop&w=800&q=80'],
-                ['id' => 2, 'title' => 'Satvik Home-Cooked Meal', 'url' => 'https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80'],
-                ['id' => 3, 'title' => 'Authentic South Indian Spread', 'url' => 'https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=800&q=80'],
-                ['id' => 4, 'title' => 'Fresh Vegetarian Delicacies', 'url' => 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80'],
-                ['id' => 5, 'title' => 'Temple Prasadam Style', 'url' => 'https://images.unsplash.com/photo-1574484284002-952d92456975?auto=format&fit=crop&w=800&q=80'],
+                ['id' => 1, 'title' => 'Traditional Banana Leaf Thali', 'url' => asset('images/1.webp')],
+                ['id' => 2, 'title' => 'Satvik Home-Cooked Meal', 'url' => asset('images/2.webp')],
+                ['id' => 3, 'title' => 'Authentic South Indian Spread', 'url' => asset('images/3.jpg')],
+                ['id' => 4, 'title' => 'Fresh Vegetarian Delicacies', 'url' => asset('images/4.jpg')],
+                ['id' => 5, 'title' => 'Temple Prasadam Style', 'url' => asset('images/5.jpg')],
             ];
         @endphp
 
